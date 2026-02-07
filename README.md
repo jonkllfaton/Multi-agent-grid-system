@@ -1,4 +1,13 @@
 
+[![Top Language](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge\&logo=python\&logoColor=white)](https://github.com/jonkllfaton/Agent-based-market-simulator)
+[![Stars](https://img.shields.io/badge/Stars-⭐-brightgreen?style=for-the-badge)](https://github.com/jonkllfaton/Agent-based-market-simulator/stargazers)
+[![Forks](https://img.shields.io/badge/Forks-🔀-blue?style=for-the-badge)](https://github.com/jonkllfaton/Agent-based-market-simulator/network/members)
+[![Issues](https://img.shields.io/badge/Issues-❗-red?style=for-the-badge)](https://github.com/jonkllfaton/Agent-based-market-simulator/issues)
+[![Last Commit](https://img.shields.io/badge/Last%20Commit-📅-orange?style=for-the-badge)](https://github.com/jonkllfaton/Agent-based-market-simulator/commits/main)
+[![Contributors](https://img.shields.io/badge/Contributors-👥-purple?style=for-the-badge)](https://github.com/jonkllfaton/Agent-based-market-simulator/graphs/contributors)
+
+---
+
 # 🐝 Multi-Agent Grid System (MAGS)
 
 **Decentralized Resource Allocation Among Autonomous Agents**
@@ -24,7 +33,7 @@ Multi-Agent Grid System (MAGS) is a modular **simulation framework** for decentr
 
 ---
 
-## 🎬 Demo
+## 🎬 Demo Video
 
 <p align="center">
   <a href="https://youtu.be/urXnRFVPZR8">
@@ -42,30 +51,32 @@ Multi-Agent Grid System (MAGS) is a modular **simulation framework** for decentr
 
 ## 💻 Installation
 
-
+```bash
 git clone https://github.com/jonkllfaton/swarmgrid.git
 cd swarmgrid
 pip install -r requirements.txt
+```
 
+---
 
 ## ⚙️ Usage
 
 Run the default simulation:
 
-
+```bash
 python run_simulation.py
+```
 
+Run with a custom configuration file:
 
-Run with a custom configuration:
-
-
+```bash
 python run_simulation.py --config config.yaml
-
+```
 
 **Customizable in `config.yaml`:**
 
 * Agent types and population size
-* Initial resources allocation
+* Initial resource allocation
 * Interaction rules and utility optimization
 * Duration, logging, and output formats
 
@@ -130,15 +141,12 @@ Contact: **[jonkllfaton@gmail.com](mailto:jonkllfaton@gmail.com)**
 
 ---
 
-This README layout now **looks professional, interactive, and portfolio-ready**, combining:
+✅ **Portfolio-ready features:**
 
-✅ Header banner
-✅ Agent type icons
-✅ Demo GIF + YouTube video
-✅ Heatmaps & visualizations
+* Header banner
+* Agent type icons
+* Demo GIF + YouTube video
+* Heatmaps & visualizations
+* Clear instructions for usage & customization
 
 ---
-
-If you want, I can **generate the actual `header_banner.png`, agent icons, and demo GIF placeholders** for you so that your GitHub repo is fully visually complete and polished.
-
-Do you want me to do that next?
