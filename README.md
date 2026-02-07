@@ -8,7 +8,7 @@
 
 ---
 
-# 🐝 Multi-Agent Grid System (MAGS)
+# 🐝 Grid Systems
 
 **Decentralized Resource Allocation Among Autonomous Agents**
 
@@ -16,7 +16,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/jonkllfaton/swarmgrid)](https://github.com/jonkllfaton/swarmgrid/stargazers)
 
-Multi-Agent Grid System (MAGS) is a modular **simulation framework** for decentralized resource allocation in a grid environment. Agents interact, trade, and make independent decisions without a central controller, allowing modeling of cooperation, competition, and emergent behaviors.
+Grid Systems is a modular **simulation framework** for decentralized resource allocation in a grid environment. Agents interact, trade, and make independent decisions without a central controller, enabling modeling of cooperation, competition, and emergent behaviors.
 
 ---
 
@@ -37,7 +37,7 @@ Multi-Agent Grid System (MAGS) is a modular **simulation framework** for decentr
 
 <p align="center">
   <a href="https://youtu.be/urXnRFVPZR8">
-    <img width="600" src="https://img.youtube.com/vi/urXnRFVPZR8/maxresdefault.jpg" alt="MAGS Demo">
+    <img width="600" src="https://img.youtube.com/vi/urXnRFVPZR8/maxresdefault.jpg" alt="Grid Systems Demo">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ Multi-Agent Grid System (MAGS) is a modular **simulation framework** for decentr
   <img src="docs/demo_animation.gif" alt="Simulation GIF" width="600"/>
 </p>
 
-> Watch the **SwarmGrid / MAGS demo** in action! Click the image above to view the video.
+> Watch the **Grid Systems demo** in action! Click the image above to view the video.
 
 ---
 
@@ -138,15 +138,5 @@ Contact: **[jonkllfaton@gmail.com](mailto:jonkllfaton@gmail.com)**
 * **Python 3.8+**
 * **TypeScript (95%)**
 * **JavaScript (4%)**
-
----
-
-✅ **Portfolio-ready features:**
-
-* Header banner
-* Agent type icons
-* Demo GIF + YouTube video
-* Heatmaps & visualizations
-* Clear instructions for usage & customization
 
 ---
