@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="docs/header_banner.png" alt="Multi-Agent Grid System" width="800"/>
-</p>
-
 # 🐝 Multi-Agent Grid System (MAGS)
 
 **Decentralized Resource Allocation Among Autonomous Agents**
